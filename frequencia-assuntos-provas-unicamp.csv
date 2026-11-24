@@ -1,0 +1,58 @@
+disciplina,assunto,questoes,percentual_das_classificadas,questoes_classificadas,provas,ano_inicial,ano_final
+MA111,Limites e limites laterais,43,23.8,181,56,2008,2026
+MA111,"Máximos e mínimos, TVM, esboço de curvas",25,13.8,181,56,2008,2026
+MA111,"Derivada: definição, reta tangente, taxa de variação, regras básicas",24,13.3,181,56,2008,2026
+MA111,"Técnicas de integração: substituição, partes, trigonométricas, frações parciais",24,13.3,181,56,2008,2026
+MA111,"Limites no infinito, assíntotas, continuidade e TVI",17,9.4,181,56,2008,2026
+MA111,"Revisão: desigualdades, módulo, funções, exponencial, logaritmo, inversa",14,7.7,181,56,2008,2026
+MA111,Área entre curvas e volumes,13,7.2,181,56,2008,2026
+MA111,"Regra da cadeia, derivação implícita, derivadas trigonométricas, logarítmicas e inversas",8,4.4,181,56,2008,2026
+MA111,L'Hôpital e formas indeterminadas,5,2.8,181,56,2008,2026
+MA111,"Taxas relacionadas, aproximação linear e diferenciais",5,2.8,181,56,2008,2026
+MA111,Integrais impróprias,2,1.1,181,56,2008,2026
+MA111,Otimização,1,0.6,181,56,2008,2026
+MA141,Matrizes e sistemas lineares (escalonamento),44,23.2,190,55,2008,2026
+MA141,"Retas e planos: equações, posições relativas, interseções, distâncias",41,21.6,190,55,2008,2026
+MA141,"Cônicas: classificação, rotação e translação",34,17.9,190,55,2008,2026
+MA141,"Vetores, bases, dependência linear, coordenadas",26,13.7,190,55,2008,2026
+MA141,Matriz inversa e determinantes,22,11.6,190,55,2008,2026
+MA141,"Circunferências, esferas, superfícies cilíndricas, cônicas e de revolução",9,4.7,190,55,2008,2026
+MA141,Quádricas,6,3.2,190,55,2008,2026
+MA141,"Produto escalar, vetorial e misto; norma, ângulo, projeção",6,3.2,190,55,2008,2026
+MA141,"Coordenadas polares, cilíndricas e esféricas",2,1.1,190,55,2008,2026
+MA211,"Campos vetoriais, integrais de linha, campos conservativos",26,17.9,145,62,2006,2024
+MA211,"Integrais triplas (cilíndricas, esféricas) e mudança de variáveis",22,15.2,145,62,2006,2024
+MA211,Máximos e mínimos e multiplicadores de Lagrange,20,13.8,145,62,2006,2024
+MA211,"Integrais duplas (regiões gerais, polares, área de superfície)",18,12.4,145,62,2006,2024
+MA211,"Derivadas parciais, plano tangente, aproximação linear, regra da cadeia",16,11.0,145,62,2006,2024
+MA211,"Funções de várias variáveis, limites e continuidade",11,7.6,145,62,2006,2024
+MA211,"Rotacional, divergente, superfícies parametrizadas e integrais de superfície",10,6.9,145,62,2006,2024
+MA211,Teorema de Green,10,6.9,145,62,2006,2024
+MA211,Teoremas de Stokes e do divergente (Gauss),8,5.5,145,62,2006,2024
+MA211,Derivada direcional e gradiente,4,2.8,145,62,2006,2024
+MA311,"Sequências e séries numéricas, testes de convergência",32,16.2,198,57,2007,2025
+MA311,Transformada de Laplace,31,15.7,198,57,2007,2025
+MA311,"EDO de 1ª ordem (linear, separável, exata, Bernoulli, fator integrante), existência e unicidade",26,13.1,198,57,2007,2025
+MA311,Sistemas de EDOs lineares (autovalores),22,11.1,198,57,2007,2025
+MA311,"EDO linear de 2ª ordem: coeficientes constantes, Euler, Wronskiano, redução de ordem",20,10.1,198,57,2007,2025
+MA311,Soluções em série (ponto ordinário e singular regular),17,8.6,198,57,2007,2025
+MA311,Séries de Fourier,17,8.6,198,57,2007,2025
+MA311,Coeficientes indeterminados e variação de parâmetros,13,6.6,198,57,2007,2025
+MA311,Séries de potências e de Taylor,13,6.6,198,57,2007,2025
+MA311,"EDPs: separação de variáveis, calor e onda",7,3.5,198,57,2007,2025
+F128,"Medidas, movimento retilíneo e queda livre",57,31.5,181,36,2004,2023
+F128,"Rotação de corpos rígidos: cinemática rotacional, inércia, torque, rolamento",38,21.0,181,36,2004,2023
+F128,"Trabalho, energia e conservação da energia",34,18.8,181,36,2004,2023
+F128,"Leis de Newton, atrito, dinâmica da partícula",24,13.3,181,36,2004,2023
+F128,"Momento linear, centro de massa e colisões",21,11.6,181,36,2004,2023
+F128,"Vetores e movimento no plano (projéteis, circular, relativo)",6,3.3,181,36,2004,2023
+F128,"Momento angular, conservação e equilíbrio",1,0.6,181,36,2004,2023
+F328,"Carga, lei de Coulomb e campo elétrico",22,29.3,75,28,2008,2023
+F328,Capacitância e dielétricos,18,24.0,75,28,2008,2023
+F328,Campo magnético e força magnética,14,18.7,75,28,2008,2023
+F328,"Corrente, resistência e circuitos de corrente contínua (RC)",9,12.0,75,28,2008,2023
+F328,Lei de Gauss,5,6.7,75,28,2008,2023
+F328,"Indução: Faraday, Lenz, indutância",2,2.7,75,28,2008,2023
+F328,Potencial elétrico e energia potencial elétrica,2,2.7,75,28,2008,2023
+F328,Fontes de campo magnetico: Biot-Savart e Ampere,2,2.7,75,28,2008,2023
+F328,"Oscilações eletromagnéticas e corrente alternada (LC, RLC)",1,1.3,75,28,2008,2023
